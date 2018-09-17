@@ -1,48 +1,48 @@
 # RTR105
 Datormācības kurša elektroniskā klade
 ## 2.NODARBĪBAS KOMANDAS
-###Termināļa pamatā
-**ctrl+alt+t**-atvērt termināli
+### Termināļa pamatā
+- **ctrl+alt+t**-atvērt termināli
 
-**ctrl+alt**-jauns tabs
+- **ctrl+alt**-jauns tabs
 
-**ctrl+l**-dzēš pierakstus
+- **ctrl+l**-dzēš pierakstus
 
-**firefox %**-palaist interneta browseri
+- **firefox %**-palaist interneta browseri
 
-**uname**-OS nosaukums
+- **uname**-OS nosaukums
 
-**whoami**-lietotāja nosaukums
+- **whoami**-lietotāja nosaukums
 
-**pwd**-ierīces atrašanās vieta
+-**pwd**-ierīces atrašanās vieta
 >var būt arī IP
 
-**who**-lietotāja sīkāks apraksts
+- **who**-lietotāja sīkāks apraksts
 
-**history**-parāda komandu vēsturi
+- **history**-parāda komandu vēsturi
 
-**man + vajadzība**-padziļinātāks apraksts
+- **man + vajadzība**-padziļinātāks apraksts
 >man uname - Os nosaukums+sīkāks apraksts
 
-###Ar konsolēm
+### Ar konsolēm
 
-**sh**-pārslēgt uz citu shell
+- **sh**-pārslēgt uz citu shell
 
-**echo $0**-ar kādu shell darbojas šobrīd
+- **echo $0**-ar kādu shell darbojas šobrīd
 
-**exit** - atvienoties no konsoles
+- **exit** - atvienoties no konsoles
 
-**Ctrl+alt+f1,f2...**-pārslēgties starp konsolēm
+- **Ctrl+alt+f1,f2...**-pārslēgties starp konsolēm
 
 >parasti ir 7 konsoles, un 7.(pēdējā) ir ar grafisku interfeisu
 
-###Dokumenti
+### Dokumenti
 
-**history > "nosaukums"**-saglabā vēsturi failā
+- **history > "nosaukums"**-saglabā vēsturi failā
 
-**ls**-kādi dokumenti ir ierīcē
+- **ls**-kādi dokumenti ir ierīcē
 
-**ls -la**-kādi dokumenti, faili ir ierīcē, un kādas ir piekļuves tiem
+- **ls -la**-kādi dokumenti, faili ir ierīcē, un kādas ir piekļuves tiem
 
 
 
