@@ -14,7 +14,7 @@ Datormācības kurša elektroniskā klade
 
 - **whoami**-lietotāja nosaukums
 
--**pwd**-ierīces atrašanās vieta
+- **pwd**-ierīces atrašanās vieta
 >var būt arī IP
 
 - **who**-lietotāja sīkāks apraksts
