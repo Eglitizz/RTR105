@@ -70,6 +70,8 @@ Datormācības kurša elektroniskā klade
 
 - **rm fails*.txt** -izdēš visus failus, ar fails.txt
 
+- **chmod**- maina piekļuvi
+
 >"*"ir kā mainīgais
 
 
