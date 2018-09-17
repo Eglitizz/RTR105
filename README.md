@@ -44,6 +44,33 @@ Datormācības kurša elektroniskā klade
 
 - **ls -la**-kādi dokumenti, faili ir ierīcē, un kādas ir piekļuves tiem
 
+## 3.Nodarbības komandas
+
+- **cd "mape"**-aiziet uz mapi
+
+- **cd ..**-aiziet atpakaļ
+
+- **mkdir "nos"**-izveido mapi ar nosaukumu
+
+- **rmdir "nos"**-idzēš mapi ar nosaukumu
+
+- **echo "teksts" > fails1.txt**-ieliek tekstu txt failā
+
+- **cat fails1.txt**-izlasa teksta failu
+
+- **nano fails1.txt**-ieiet teksta faila rediģēšanā
+
+- **cp fails1.txt fails3.txt**-ziveido kopiju, ar nosaukumu fails3.txt
+
+- **mv fails1.txt Music/**-pārvieto failu uz music mapi
+
+- **mv fails3.txt fails13.txt**-pārsauc fails3.txt par fails4.txt
+
+- **rm fails*.txt**-izdēš visus failus, ar fails.txt
+>"*"ir kā mainīgais
+
+
+
 
 
 
