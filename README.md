@@ -37,6 +37,8 @@ Datormācības kurša elektroniskā klade
 **pwd**-ierīces atrašanās vieta
 >var būt arī IP
 
+**firefox %**-palaist interneta browseri
+
 
 
 
