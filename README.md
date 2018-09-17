@@ -68,7 +68,7 @@ Datormācības kurša elektroniskā klade
 
 - **mv fails3.txt fails13.txt**-pārsauc fails3.txt par fails4.txt
 
-- **rm fails*.txt**-izdēš visus failus, ar fails.txt
+- **rm fails*.txt** -izdēš visus failus, ar fails.txt
 
 >"*"ir kā mainīgais
 
