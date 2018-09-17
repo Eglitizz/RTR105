@@ -27,3 +27,178 @@
    27  ls -la
    28  history
    29  history > history_20180917.txt
+   30  ls
+   31  cat history_20180917.txt 
+   32  ls
+   33  ls -a
+   34  command
+   35  command -c
+   36  c
+   37  history
+   38  whoisme
+   39  whoamiwhoami
+   40  whoami
+   41  cat history_20180917.txt 
+   42  ls -a
+   43  ls
+   44  ls- l
+   45  ls -s
+   46  ls -la
+   47  sh
+   48  uname
+   49  uname -u
+   50  man uname
+   51  who
+   52  uname -a
+   53  uname
+   54  man uname
+   55  pwd
+   56  ls -a
+   57  ls -b
+   58  ls -y
+   59  ls -f
+   60  ls -d
+   61  ls -c
+   62  man
+   63  man who
+   64  cd Music
+   65  cd Music/
+   66  cd Music/cd Musiccd Music/
+   67  cd Music
+   68  pwd
+   69  ls
+   70  ls -la
+   71  ls -a
+   72  cd .
+   73  pwd
+   74  cd ..
+   75  pwd
+   76  ls -la
+   77  cd Music
+   78  ls -la
+   79  cd .
+   80  cd ..
+   81  pwd
+   82  cd ..
+   83  pwd
+   84  cd ..
+   85  pwd
+   86  ls -la
+   87  cd .
+   88  pwd
+   89  cd .
+   90  cd ..
+   91  pwd
+   92  /
+   93  cd homr
+   94  cd home/userpwd
+   95  pwd
+   96  cd home
+   97  cd/user
+   98  cd user
+   99  pwd
+  100  cd ..
+  101  cd..
+  102  cd ..
+  103  pwd
+  104  cd ~
+  105  pwd
+  106  mkdir manamape
+  107  ls
+  108  cd manamape/
+  109  ls
+  110  ls-la
+  111  ls -la
+  112  cd ..
+  113  rmdir manamape/
+  114  ls
+  115  mkdirs manamape
+  116  mkdir manamape
+  117  mkdir papildus
+  118  pwd
+  119  cd manamape/papildus
+  120  cd manamape/
+  121  cd pap
+  122  mkdir papirldus
+  123  cd pap
+  124  cd papirldus/
+  125  pwd
+  126  man rmdir
+  127  --ignore-fail-on-non-empty
+  128  man rm
+  129  rm -r manamape/
+  130  cd ..
+  131  cd..
+  132  cd ..
+  133  rm -r manamape/
+  134  ls
+  135  sdksdklsdklsdlksdlslsl
+  136  dkdkdkdkdkdkdkdkddkdkdkdkddkkkdkokokokokoko
+  137  kokokokokokokokokokokkokokokookokokokokokooooooooooooooooooooooooookkkkkkkkkkokoooooooooooooooooooooooooooooookk
+  138  echo "teksts"
+  139  echo "teksts\nTeksts\nTeksts"
+  140  pwd
+  141  man echo
+  142  echo "teksts\n Teksts\n Teksts"
+  143* echo -e  "teksts\nTekstecs\nTeksts"
+  144  echo "teksts" > fails1.txt
+  145  ls -l
+  146  car fails1.txt
+  147  cat fails1.txt 
+  148  cd
+  149  pwd
+  150  ls
+  151  ls -l
+  152  echo "cits tekts" > fails1.txt 
+  153  cat fails1.txt 
+  154  echo "cits tekts" >> fails1.txt 
+  155  cat fails1.txt 
+  156  chmo
+  157  nano fails1.txt 
+  158  cat fails1.txt 
+  159  cp
+  160  cp fails1.txt fails3.txt
+  161  ls -l
+  162  move fails1.txt Music/
+  163  mv fails1.txt Music/
+  164  ls
+  165  cd m
+  166  cd music
+  167  cd /M
+  168  cd Music/
+  169  ls -l
+  170  ls -la
+  171  ls -l
+  172  cd ..
+  173  pwd
+  174  mv fails*.txt Music/
+  175  cd Music/
+  176  ls -l
+  177  mv fails3.txt  fails4.txt
+  178  mv fails1.txt ../fails101.txt
+  179  ls
+  180  ls- l
+  181  pwd
+  182  ls
+  183  cd ..
+  184  ls
+  185  cd M
+  186  cd Music/
+  187  mv Music/*.txt .
+  188  pwd
+  189  cd ..
+  190  mv Music/*.txt .
+  191  cd Music/
+  192  ls -l
+  193  cd ..
+  194  ls -l
+  195  rm fails*.txt
+  196  cd Music/
+  197  ls
+  198  ls- l
+  199  ls -l
+  200  ls -la
+  201  cd ..
+  202  History
+  203  history
+  204  history > history_20180917.txt 
