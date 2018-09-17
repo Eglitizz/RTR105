@@ -46,6 +46,8 @@ Datormācības kurša elektroniskā klade
 
 ## 3.Nodarbības komandas
 
+### Darbības ar failiem un mapēm
+
 - **cd "mape"**-aiziet uz mapi
 
 - **cd ..**-aiziet atpakaļ
