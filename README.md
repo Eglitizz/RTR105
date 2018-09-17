@@ -1,11 +1,32 @@
 # RTR105
 Datormācības kurša elektroniskā klade
 ## 2.NODARBĪBAS KOMANDAS
+###Termināļa pamatā
 **ctrl+alt+t**-atvērt termināli
 
 **ctrl+alt**-jauns tabs
 
 **ctrl+l**-dzēš pierakstus
+
+**firefox %**-palaist interneta browseri
+
+**uname**-OS nosaukums
+
+**whoami**-lietotāja nosaukums
+
+**pwd**-ierīces atrašanās vieta
+>var būt arī IP
+
+**who**-lietotāja sīkāks apraksts
+
+**history**-parāda komandu vēsturi
+
+**man + vajadzība**-padziļinātāks apraksts
+>man uname - Os nosaukums+sīkāks apraksts
+
+###Ar konsolēm
+
+**sh**-pārslēgt uz citu shell
 
 **echo $0**-ar kādu shell darbojas šobrīd
 
@@ -15,29 +36,17 @@ Datormācības kurša elektroniskā klade
 
 >parasti ir 7 konsoles, un 7.(pēdējā) ir ar grafisku interfeisu
 
-**history**-parāda komandu vēsturi
+###Dokumenti
 
-**history > "nosaukums"**-saglabā vēsturi failā\
-
-**whoami**-lietotāja nosaukums
+**history > "nosaukums"**-saglabā vēsturi failā
 
 **ls**-kādi dokumenti ir ierīcē
 
 **ls -la**-kādi dokumenti, faili ir ierīcē, un kādas ir piekļuves tiem
 
-**sh**-pārslēgt uz citu shell
 
-**uname**-OS nosaukums
 
-**man + vajadzība**-padziļinātāks apraksts
->man uname - Os nosaukums+sīkāks apraksts
 
-**who**-lietotāja sīkāks apraksts
-
-**pwd**-ierīces atrašanās vieta
->var būt arī IP
-
-**firefox %**-palaist interneta browseri
 
 
 
