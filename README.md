@@ -74,9 +74,15 @@ Datormācības kurša elektroniskā klade
 
 - **chmod**- maina piekļuvi
 
+##4.Nodarbības komandas
 
+- **git clone** - lejupielādē teksta failus no githuba
+>git clone https://guthub.com/eglitiss/RTR105
 
+- **PATH=$PATH** - pievieno mapi pie sistēmas mapēm
 
+- **cp** - kopēt failu vai mapi
+ 
 
 
 
