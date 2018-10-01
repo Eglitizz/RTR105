@@ -74,7 +74,7 @@ Datormācības kurša elektroniskā klade
 
 - **chmod**- maina piekļuvi
 
-##4.Nodarbības komandas
+## 4.Nodarbības komandas
 
 - **git clone** - lejupielādē teksta failus no githuba
 >git clone https://guthub.com/eglitiss/RTR105
