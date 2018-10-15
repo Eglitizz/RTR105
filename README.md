@@ -83,8 +83,24 @@ Datormācības kurša elektroniskā klade
 
 - **cp** - kopēt failu vai mapi
  
+## 5.Nodarbības komandas
 
+- **input()** teksta ievade
+>input(ievadiet tekstu)
 
+- **raw_input()** teksta ievade 2.0 python
+
+- **print** parādīt vērtību
+>a=1*2+1  
+>print(a)
+>3
+
+- **type()** parāda tipu
+
+- ** ** ** kvardāta sakne
+>a=2**2
+>print(a)
+>8
 
 
 

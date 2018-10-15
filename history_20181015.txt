@@ -1,0 +1,25 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/eglitizz/RTR105
+    4  eglitizz
+    5  git clone https://github.com/eglitizz/RTR105
+    6  ls -l
+    7  cd RTR105/
+    8  LS -L
+    9  ls -l
+   10  idle &
+   11  ls -l
+   12  idle dgr_20181015.py 
+   13  shell dgr_20181015.py 
+   14  shell
+   15  python
+   16  ls -l
+   17  idle dgr_20181015.py 
+   18  idle dgr 20181015a.py
+   19  ls -l
+   20  idle
+   21  ls -l
+   22  nano README.md 
+   23  ls-l
+   24  ls -l
+   25  history>history_20181015.txt
