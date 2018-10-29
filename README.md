@@ -102,7 +102,10 @@ Datormācības kurša elektroniskā klade
 >print(a)
 >8
 
+## 6.Nodarbības komandas
 
+- **F5** Tiek palaists skripts, kuru rakstiji failā(python vidē)
+- **python /nosaukums/** Tiek palaists skripts shell vidē
 
 
 
