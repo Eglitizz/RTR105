@@ -78,6 +78,7 @@ Datormācības kurša elektroniskā klade
 
 - **git clone** - lejupielādē teksta failus no githuba
 >git clone https://guthub.com/eglitiss/RTR105
+- **./git-upload 20181114_11_59** - augšupielādē
 
 - **PATH=$PATH** - pievieno mapi pie sistēmas mapēm
 
